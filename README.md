@@ -28,11 +28,13 @@ The database schema consists of the following tables:
 
 **11. InvoiceLine:** InvoiceLineId, InvoiceId, TrackId, UnitPrice, Quantity
 
+
 ![Schema](https://github.com/gagansaleria/SQL_Music_Database/assets/150334606/6090f110-620e-45c5-bc7b-90c60dd58c27)
 
-**Questions**
 
-**Question Set 1**
+## Questions
+
+### Question Set 1
 
 **Q1-** Who is the senior most employee based on job title?
 
@@ -44,7 +46,7 @@ The database schema consists of the following tables:
 
 **Q5-** Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
 
-**Question Set 2**
+### Question Set 2
 
 **Q1-** Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.
 
@@ -52,7 +54,7 @@ The database schema consists of the following tables:
 
 **Q3-** Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with thelongest songs listed first.
 
-**Question Set 3**
+### Question Set 3
 
 **Q1-** Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 
