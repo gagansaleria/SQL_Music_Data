@@ -1,4 +1,4 @@
-# Music Company Sales Database Project
+# Music Company Sales
 
 This project involves analyzing sales data from a music company. The data is organized into 11 tables, and various SQL queries were used to extract meaningful insights. The queries were written using PostgreSQL. Below is an overview of the database schema, followed by the specific questions addressed in the project.
 
